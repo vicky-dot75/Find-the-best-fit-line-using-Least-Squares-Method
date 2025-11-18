@@ -56,6 +56,8 @@ import numpy as np
 ## Output:
 
 
+![WhatsApp Image 2025-11-18 at 11 03 16 AM](https://github.com/user-attachments/assets/13a53fa9-aa1d-45cd-8717-d4d2376430f0)
+
 
 
 
